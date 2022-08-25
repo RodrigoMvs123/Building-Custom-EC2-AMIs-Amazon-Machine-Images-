@@ -2,6 +2,12 @@
 
 https://www.youtube.com/watch?v=9li3TxwPCCY
 
+
+https://raw.githubusercontent.com/RodrigoMvs123/Building-Custom-EC2-AMIs-Amazon-Machine-Images-/main/README.md
+
+
+
+
 Userdata-custom-ami.sh
 #!/bin/bash
 
